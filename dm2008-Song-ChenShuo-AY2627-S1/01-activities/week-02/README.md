@@ -1,4 +1,4 @@
-# Week ## — Topic Name
+# Week 02 — Control Flows and Interactivity
 
 <!-- Replace ## with the week number and Topic Name with the week's focus -->
 <!-- You may also refer to each week's slide for the Topic Name -->
@@ -10,8 +10,8 @@
 
 | Activity | What I Made                   |
 | -------- | ----------------------------- |
-| `1a`     | <!-- one line description --> |
-| `1b`     | <!-- one line description --> |
+| `2a`     | Mouse press to toggle between a pink square and a black circle |
+| `2b`     | Clicking toggles the grid shapes between circles and squares |
 
 <!-- Add or remove rows to match the activities for this week. -->
 
@@ -26,7 +26,14 @@
 
 ### Output
 
-![screenshot](readme-assets/output.png)
+### 2a — Mode Switch
+![alt text](image-2.png)
+![alt text](image-3.png)
+![Video](documentation/activity-2a.mp4)
+### 2b — Pattern Making
+![alt text](image.png)
+![alt text](image-1.png)
+![Video](documentation/activity-2b.mp4)
 
 <!-- Drop a screenshot, photo, or GIF of something you made this week.
      Save it to a readme-assets/ folder inside this week's folder.
