@@ -1,4 +1,4 @@
-# WWeek 04 — Object-oriented Programming (Part I)
+# Week 05 — Object-oriented Programming (Part II)
 
 <!-- Replace ## with the week number and Topic Name with the week's focus -->
 <!-- You may also refer to each week's slide for the Topic Name -->
@@ -10,8 +10,7 @@
 
 | Activity | What I Made                   |
 | -------- | ----------------------------- |
-| `4a`     | Press 'd' to move the cookie, click the mouse to randomize its flavor/color |
-| `4b`     | A particle system of shrinking shapes that bounce around; click to add more, press 'c' to clear |
+| `5a`     | Two bouncing balls that turn red when they collide |
 
 <!-- Add or remove rows to match the activities for this week. -->
 
@@ -26,12 +25,8 @@
 
 ### Output
 
-### 4a — Bake a Cookie
-![Video](documentation/activity-4a.mp4)
-### 4b — Objects in Motion
-![alt text](image.png)
-
-![Video](documentation/activity-4b.mp4)
+### 5a — Colliding Circles
+![Video](documentation/activity-5a.mp4)
 
 <!-- Drop a screenshot, photo, or GIF of something you made this week.
      Save it to a readme-assets/ folder inside this week's folder.

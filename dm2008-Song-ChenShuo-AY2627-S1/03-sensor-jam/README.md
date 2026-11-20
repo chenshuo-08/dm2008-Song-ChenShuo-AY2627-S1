@@ -1,5 +1,4 @@
-# Sensor Jam — Title
-
+# Sensor Jam — Circle
 <!-- Replace "Title" with the name of your project, e.g. "Sensor Jam — Theremin Visualiser" -->
 
 ---
@@ -14,7 +13,7 @@
 
 ### Output
 
-![screenshot](readme-assets/screenshot-01.png)
+![alt text](image.png)
 
 <!-- Drop a screenshot or GIF of your sketch in action.
      Got a photo of your physical setup too? Throw it in.
