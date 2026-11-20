@@ -10,8 +10,8 @@
 
 | Activity | What I Made                   |
 | -------- | ----------------------------- |
-| `1a`     | <A blue whale> |
-| `1b`     | <Play with blue circles using mouse> |
+| `1a`     | <!-- a blue whale --> |
+| `1b`     | <!-- play with blue circles using mouse --> |
 
 <!-- Add or remove rows to match the activities for this week. -->
 
@@ -26,7 +26,7 @@
 
 ### Output
 
-![screenshot](![alt text](image.png))
+[1a — Simple Creatures](![alt text](image.png))
 
 <!-- Drop a screenshot, photo, or GIF of something you made this week.
      Save it to a readme-assets/ folder inside this week's folder.
