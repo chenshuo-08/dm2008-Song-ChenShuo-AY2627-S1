@@ -10,8 +10,8 @@
 
 | Activity | What I Made                   |
 | -------- | ----------------------------- |
-| `1a`     | <!-- a blue whale --> |
-| `1b`     | <!-- play with blue circles using mouse --> |
+| `1a`     | a blue whale |
+| `1b`     | play with blue circles using mouse |
 
 <!-- Add or remove rows to match the activities for this week. -->
 
@@ -26,8 +26,12 @@
 
 ### Output
 
-[1a — Simple Creatures](![alt text](image.png))
+### 1a — Simple Creatures
+(![alt text](image.png))
 
+### 1b — Learning By Making
+(![alt text](image-1.png))
+(![alt text](image-2.png))
 <!-- Drop a screenshot, photo, or GIF of something you made this week.
      Save it to a readme-assets/ folder inside this week's folder.
      Made more than one thing worth showing? Add more images. -->
