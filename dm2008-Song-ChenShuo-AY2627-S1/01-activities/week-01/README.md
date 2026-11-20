@@ -1,4 +1,4 @@
-# Week ## — Topic Name
+# Week 01 — Introduction to Creative Coding
 
 <!-- Replace ## with the week number and Topic Name with the week's focus -->
 <!-- You may also refer to each week's slide for the Topic Name -->
@@ -10,8 +10,8 @@
 
 | Activity | What I Made                   |
 | -------- | ----------------------------- |
-| `1a`     | <!-- one line description --> |
-| `1b`     | <!-- one line description --> |
+| `1a`     | <A blue whale> |
+| `1b`     | <Play with blue circles using mouse> |
 
 <!-- Add or remove rows to match the activities for this week. -->
 
@@ -26,7 +26,7 @@
 
 ### Output
 
-![screenshot](readme-assets/output.png)
+![screenshot](![alt text](image.png))
 
 <!-- Drop a screenshot, photo, or GIF of something you made this week.
      Save it to a readme-assets/ folder inside this week's folder.
