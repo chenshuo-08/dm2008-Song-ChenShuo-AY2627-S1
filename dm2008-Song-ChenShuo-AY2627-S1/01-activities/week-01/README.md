@@ -27,11 +27,12 @@
 ### Output
 
 ### 1a — Simple Creatures
-(![alt text](image.png))
+![blue whale](readme-assets/image.png)
 
 ### 1b — Learning By Making
-(![alt text](image-1.png))
-(![alt text](image-2.png))
+![circles 1](readme-assets/image-1.png)
+![circles 2](readme-assets/image-2.png)
+
 <video src="readme-assets/activity-1b-demo.mp4" controls width="600"></video>
 <!-- Drop a screenshot, photo, or GIF of something you made this week.
      Save it to a readme-assets/ folder inside this week's folder.
